@@ -1,0 +1,5 @@
+SubscriberKey,Event,Domain,Timestamp,JobID
+aaron02@example.org,unsub,example.org,2024-04-25 00:20:48.898632,442411
+aaron30@example.org,click,example.org,2024-04-28 10:08:46.575807,355427
+aaron30@example.org,unsub,example.org,2024-04-28 10:08:46.575807,964505
+aaron85@example.org,open,example.org,2024-04-10 17:35:42.060171,701968

@@ -1,0 +1,8 @@
+contactid,first name,last name,subscriberkey,email,optin,timestamp
+2084,John,Doe,015234567890123456,johndoe@example.com,true,2024-04-15 20:23:14
+2098,Jane,Smith,021345678901234567,janesmith@example.com,true,2023-08-22 11:49:01
+4376,Bob,Johnson,045678901234567890,,true,2022-03-19 23:59:59
+4234,Alice,Brown,alicebrown@example.com, alicebrown@example.com,false,2025-02-08 14:33:42
+5222,Charlie,Davis,charliedavis@example.com,,false,2024-07-02 09:41:17
+2344,aaron, jane, aaron02@example.org,,true,2023-12-24 22:16:48
+4009, zad, wise, zwise@example.net, zwise@example.net,false,2023-10-29 18:12:25
